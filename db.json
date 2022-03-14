@@ -1,7 +1,7 @@
 {
     "users": [
         {
-           
+            "uid": 1,
             "firstName": "Mayur",
             "lastName": "Raut",
             "email": "rautm350@g.co",
@@ -12,133 +12,6 @@
             "state": "Maharashtra",
             "country": "India"
               
-        },
-        {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address":{
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India"
-          }
-      
-      },
-      {
-         
-          "firstName": "Mayur",
-          "lastName": "Raut",
-          "email": "rautm350@g.co",
-          "dob": "2013-19-21T13:28:06.419Z",
-          "gender": "Male",
-          "address": {
-          "area": "kalyani nagar",
-          "city": "Pune",
-          "state": "Maharashtra",
-          "country": "India" }
-            
-      }
+        }
     ]
   }
