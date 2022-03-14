@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "uid": 1,
+            "id": 1,
             "firstName": "Mayur",
             "lastName": "Raut",
             "email": "rautm350@g.co",
