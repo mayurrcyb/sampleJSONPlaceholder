@@ -1,20 +1,33 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "firstName": "Mayur",
-            "lastName": "Raut",
-            "email": "rautm350@g.co",
-            "dob": "2013-19-21T13:28:06.419Z",
-            "gender": "Male",
-            "address": {
-                "area" : "kalyani nagar",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India"
-            }
-            
-              
-        }
-    ]
-  }
+  "users": [],
+  "promotions": [
+    {
+      "pname": "Nike air Jordan",
+      "minAge": "20",
+      "maxAge": "25",
+      "gender": true,
+      "country": "India",
+      "status": "pending",
+      "startDate": "2022-03-16",
+      "endDate": "2022-03-23",
+      "id": 2
+    },
+    {
+      "pname": "apple watch",
+      "minAge": "20",
+      "maxAge": "35",
+      "country": "USA",
+      "status": "pending",
+      "startDate": "2022-03-15",
+      "endDate": "2022-03-23",
+      "id": 3
+    }
+  ],
+  "targetOffers": [
+    {
+      "pid": "promotions.id",
+      "uid": "users.id",
+      "creationTime": ""
+    }
+  ]
+}
